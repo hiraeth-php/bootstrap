@@ -18,7 +18,7 @@
         "hiraeth/harmony": "^1.0",
         "hiraeth/routing": "^1.0",
         "hiraeth/templates": "^1.0",
-        "hiraeth/chariot": "^2.0",
+        "hiraeth/chariot": "^3.0",
         "hiraeth/signal": "^1.2",
         "hiraeth/twig": "^2.0",
         "hiraeth/actions": "^1.0",
