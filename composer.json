@@ -12,19 +12,19 @@
     ],
     "require": {
         "hiraeth/app": "^2.0",
-        "hiraeth/monolog": "dev-master as 2.0",
-        "hiraeth/diactoros": "dev-master as 1.0",
-        "hiraeth/http": "dev-master as 1.0",
-        "hiraeth/harmony": "dev-master as 1.0",
-        "hiraeth/routing": "dev-master as 1.0",
-        "hiraeth/templates": "dev-master as 1.0",
-        "hiraeth/chariot": "dev-master as 2.0",
-        "hiraeth/signal": "dev-master as 1.2",
-        "hiraeth/twig": "dev-master as 2.0",
-        "hiraeth/actions": "dev-master as 1.0",
-        "hiraeth/mime": "dev-master as 1.0",
-        "hiraeth/markdown": "dev-master as 1.0",
-        "hiraeth/middleware-firewall": "dev-master as 1.0",
-        "hiraeth/middleware-client-ip": "dev-master as 1.0"
+        "hiraeth/monolog": "dev-master",
+        "hiraeth/diactoros": "dev-master",
+        "hiraeth/http": "dev-master",
+        "hiraeth/harmony": "dev-master",
+        "hiraeth/routing": "dev-master",
+        "hiraeth/templates": "dev-master",
+        "hiraeth/chariot": "dev-master",
+        "hiraeth/signal": "dev-master",
+        "hiraeth/twig": "dev-master",
+        "hiraeth/actions": "dev-master",
+        "hiraeth/mime": "dev-master",
+        "hiraeth/markdown": "dev-master",
+        "hiraeth/middleware-firewall": "dev-master",
+        "hiraeth/middleware-client-ip": "dev-master"
     }
 }
