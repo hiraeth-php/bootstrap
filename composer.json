@@ -12,19 +12,19 @@
     ],
     "require": {
         "hiraeth/app": "^2.0",
-        "hiraeth/monolog": "dev-master",
-        "hiraeth/diactoros": "dev-master",
-        "hiraeth/http": "dev-master",
-        "hiraeth/harmony": "dev-master",
-        "hiraeth/routing": "dev-master",
-        "hiraeth/templates": "dev-master",
-        "hiraeth/chariot": "dev-master",
-        "hiraeth/signal": "dev-master",
-        "hiraeth/twig": "dev-master",
-        "hiraeth/actions": "dev-master",
-        "hiraeth/mime": "dev-master",
-        "hiraeth/markdown": "dev-master",
-        "hiraeth/middleware-firewall": "dev-master",
-        "hiraeth/middleware-client-ip": "dev-master"
+        "hiraeth/monolog": "^2.0",
+        "hiraeth/diactoros": "^1.0",
+        "hiraeth/http": "^1.0",
+        "hiraeth/harmony": "^1.0",
+        "hiraeth/routing": "^1.0",
+        "hiraeth/templates": "^1.0",
+        "hiraeth/chariot": "^2.0",
+        "hiraeth/signal": "^1.2",
+        "hiraeth/twig": "^2.0",
+        "hiraeth/actions": "^1.0",
+        "hiraeth/mime": "^1.0",
+        "hiraeth/markdown": "^1.0",
+        "hiraeth/middleware-firewall": "^1.0",
+        "hiraeth/middleware-client-ip": "^1.0"
     }
 }
