@@ -2,7 +2,6 @@
     "name": "hiraeth/bootstrap",
     "description": "Official packages for the Hiraeth PHP Nano Framework",
     "license": "MIT",
-    "version": "2.0",
     "authors": [
         {
             "name":  "Matthew J. Sahagian",
@@ -25,7 +24,7 @@
         "hiraeth/mime": "^1.0",
         "hiraeth/markdown": "^1.0",
         "hiraeth/middleware-client-ip": "^1.0",
-	"hiraeth/middleware-encrypt-cookies": "^1.0",
+        "hiraeth/middleware-encrypt-cookies": "^1.0",
         "hiraeth/middleware-firewall": "^1.0"
     }
 }
