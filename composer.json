@@ -25,6 +25,7 @@
         "hiraeth/actions": "^1.0",
         "hiraeth/mime": "^1.0",
         "hiraeth/markdown": "^1.0",
+	"hiraeth/checkpoint": "^2.0",
         "hiraeth/middleware-client-ip": "^1.0",
         "hiraeth/middleware-encrypt-cookies": "^1.0",
         "hiraeth/middleware-firewall": "^1.0"
