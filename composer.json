@@ -16,7 +16,7 @@
         "hiraeth/monolog": "^2.0",
         "hiraeth/diactoros": "^1.0",
         "hiraeth/http": "^1.0",
-        "hiraeth/harmony": "^1.0",
+        "hiraeth/middleland": "^1.0",
 	"hiraeth/session": "^1.0",
         "hiraeth/routing": "^1.0",
         "hiraeth/actions": "^1.0",
