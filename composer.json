@@ -27,6 +27,7 @@
 	"hiraeth/checkpoint": "^2.0",
         "hiraeth/markdown": "^1.0",
         "hiraeth/twig": "^2.0",
+        "hiraeth/twig-cache": "^1.0",
         "hiraeth/twig-markdown": "^1.0",
         "hiraeth/middleware-client-ip": "^1.0",
         "hiraeth/middleware-encrypt-cookies": "^1.0",
