@@ -14,6 +14,7 @@
         "hiraeth/mime": "^1.0",
         "hiraeth/signal": "^1.2",
         "hiraeth/monolog": "^2.0",
+	"hiraeth/console": "^2.0",
         "hiraeth/diactoros": "^1.0",
         "hiraeth/http": "^1.0",
         "hiraeth/middleland": "^1.0",
