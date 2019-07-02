@@ -25,6 +25,7 @@
         "hiraeth/chariot": "^3.0",
         "hiraeth/stash": "^1.0",
         "hiraeth/stash-session": "^1.0",
+	"hiraeth/doctrine": "^1.0",
         "hiraeth/checkpoint": "^2.0",
         "hiraeth/markdown": "^1.0",
         "hiraeth/twig": "^2.0",
