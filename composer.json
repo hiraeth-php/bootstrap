@@ -1,6 +1,8 @@
 {
     "name": "hiraeth/bootstrap",
     "description": "Official packages for the Hiraeth PHP Nano Framework",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
