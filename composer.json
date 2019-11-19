@@ -15,7 +15,7 @@
         "hiraeth/app": "^2.0",
         "hiraeth/mime": "^1.0",
         "hiraeth/signal": "^2.0",
-        "hiraeth/gaufrette": "^1.0",
+        "hiraeth/volumes": "^1.0",
         "hiraeth/monolog": "^2.0",
         "hiraeth/console": "^2.0",
         "hiraeth/shell": "^1.0",
